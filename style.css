@@ -8,6 +8,7 @@ top: 0px;
     margin: 5px;
 
 }
+<<<<<<< HEAD
 .banner p{
     position: absolute;
     width: 499px;
@@ -28,4 +29,29 @@ top: 0px;
     /* White on Dark */
     color: #FFFFFF;
     background-color: #271e0e;
+=======
+.nav-logo img{
+    height: 40px;
+}
+.nav-container ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.nav-container ul li a {
+  font-family: Circular Std;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  text-decoration: none;
+  color: var(--text-white-color);
+  text-transform: uppercase;
+}
+
+#btn-text{
+    color: var(--main-brown-background);
+    background: var(--light-background-color);
+    padding: 10px 15px;
+>>>>>>> 55a846c79f91b7831795d00a29f7747ce4100994
 }
