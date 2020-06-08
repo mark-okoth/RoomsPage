@@ -8,7 +8,6 @@ top: 0px;
     margin: 5px;
 
 }
-<<<<<<< HEAD
 .banner p{
     position: absolute;
     width: 499px;
@@ -29,7 +28,6 @@ top: 0px;
     /* White on Dark */
     color: #FFFFFF;
     background-color: #271e0e;
-=======
 .nav-logo img{
     height: 40px;
 }
@@ -53,5 +51,4 @@ top: 0px;
     color: var(--main-brown-background);
     background: var(--light-background-color);
     padding: 10px 15px;
->>>>>>> 55a846c79f91b7831795d00a29f7747ce4100994
 }
