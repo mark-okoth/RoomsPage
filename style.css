@@ -3,12 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 :root {
   --main-brown-background: #602c21;
   --gray-background-color: #bdbdbd;
@@ -16,6 +10,7 @@
   --text-white-color: #ffff;
   --dark-text-color: #333333;
   --placeholder-text-color: #bdbdbd;
+  --box-shadow:1px 5px 30px rgba(0, 0, 0, 0.12);
 }
 
 nav {
