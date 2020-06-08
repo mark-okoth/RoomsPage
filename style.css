@@ -30,29 +30,6 @@ nav {
     margin-left: 100px;
     color: white;
 }
-<<<<<<< HEAD
-.banner p{
-    position: absolute;
-    width: 499px;
-    height: 90px;
-    left: 221px;
-    top: 401px;
-    
-    /* HEADING H1 */
-    font-family: Baskerville;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 78px;
-    line-height: 89px;
-    
-    /* identical to box height */
-    text-transform: capitalize;
-    
-    /* White on Dark */
-    color: #FFFFFF;
-    background-color: #271e0e;
-=======
->>>>>>> 313455d69a4215bf3c0c807c4645b3d635d88639
 .nav-logo img{
     height: 40px;
 }
@@ -76,4 +53,8 @@ nav {
     color: var(--main-brown-background);
     background: var(--light-background-color);
     padding: 10px 15px;
+}
+.landing-section{
+    background-image: url('/img/apartment-beach-bed-bedroom-271643\ 1.png');
+    height: 80vh;
 }
