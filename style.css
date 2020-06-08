@@ -30,6 +30,9 @@ nav {
     margin-left: 100px;
     color: white;
 }
+.nav-logo img{
+    height: 40px;
+}
 .nav-container ul li {
   display: inline-block;
   margin-left: 20px;
