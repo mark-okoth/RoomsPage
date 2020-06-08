@@ -1,3 +1,22 @@
-body{
-    background: #1ddb82;
+.banner{
+    position: absolute;
+    width: 100vw;
+    height: 40vh;
+    left: 0px;
+    top: 0px;
+    background-image: url(./img/apartment-beach-bed-bedroom-271643\ 1.png);
+
+}
+.banner h3{
+    position: absolute;
+width: 499px;
+height: 90px;
+left: 221px;
+top: 401px;
+font-family: Baskerville;
+font-style: normal;
+font-weight: normal;
+font-size: 78px;
+line-height: 89px;
+text-transform: capitalize;
 }
