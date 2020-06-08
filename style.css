@@ -1,22 +1,31 @@
 .banner{
     position: absolute;
-    width: 100vw;
-    height: 40vh;
-    left: 0px;
-    top: 0px;
+width: 1440px;
+height: 914.18px;
+left: 0px;
+top: 0px;
     background-image: url(./img/apartment-beach-bed-bedroom-271643\ 1.png);
+    margin: 5px;
 
 }
-.banner h3{
+.banner p{
     position: absolute;
-width: 499px;
-height: 90px;
-left: 221px;
-top: 401px;
-font-family: Baskerville;
-font-style: normal;
-font-weight: normal;
-font-size: 78px;
-line-height: 89px;
-text-transform: capitalize;
+    width: 499px;
+    height: 90px;
+    left: 221px;
+    top: 401px;
+    
+    /* HEADING H1 */
+    font-family: Baskerville;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 78px;
+    line-height: 89px;
+    
+    /* identical to box height */
+    text-transform: capitalize;
+    
+    /* White on Dark */
+    color: #FFFFFF;
+    background-color: #271e0e;
 }
