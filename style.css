@@ -1,3 +1,21 @@
-body{
-    background: #1ddb82;
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-brown-background:#602C21;
+    --gray-background-color:#BDBDBD;
+    --light-background-color:#D9D9D9;
+    --text-white-color:#ffff;
+    --dark-text-color: #333333;
+    --placeholder-text-color:#BDBDBD;
+
+  }
+
