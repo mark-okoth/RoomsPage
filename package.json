@@ -1,0 +1,23 @@
+{
+  "name": "HNGDesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages HNGDesign"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trend20/RoomsPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trend20/RoomsPage/issues"
+  },
+  "homepage": "https://github.com/Trend20/RoomsPage#readme",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
