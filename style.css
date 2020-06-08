@@ -1,35 +1,35 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-:root {
-  --main-brown-background: #602c21;
-  --gray-background-color: #bdbdbd;
-  --light-background-color: #d9d9d9;
-  --text-white-color: #ffff;
-  --dark-text-color: #333333;
-  --placeholder-text-color: #bdbdbd;
-  --box-shadow:1px 5px 30px rgba(0, 0, 0, 0.12);
-}
+.banner{
+    position: absolute;
+width: 1440px;
+height: 914.18px;
+left: 0px;
+top: 0px;
+    background-image: url(./img/apartment-beach-bed-bedroom-271643\ 1.png);
+    margin: 5px;
 
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: var(--main-brown-background);
-  height: 100px;
 }
-.nav-container{
-    margin-right: 100px;
-}
-.nav-container ul {
-  list-style: none;
-}
-.nav-logo{
-    margin-left: 100px;
-    color: white;
-}
+<<<<<<< HEAD
+.banner p{
+    position: absolute;
+    width: 499px;
+    height: 90px;
+    left: 221px;
+    top: 401px;
+    
+    /* HEADING H1 */
+    font-family: Baskerville;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 78px;
+    line-height: 89px;
+    
+    /* identical to box height */
+    text-transform: capitalize;
+    
+    /* White on Dark */
+    color: #FFFFFF;
+    background-color: #271e0e;
+=======
 .nav-logo img{
     height: 40px;
 }
@@ -53,4 +53,5 @@ nav {
     color: var(--main-brown-background);
     background: var(--light-background-color);
     padding: 10px 15px;
+>>>>>>> 55a846c79f91b7831795d00a29f7747ce4100994
 }
