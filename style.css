@@ -164,6 +164,8 @@ button{
 .grand-suite-img{
 width: 900px;
 height: 600px;
+position: absolute;
+top: 215%;
 }
 
 .grand-suite-content{
@@ -191,4 +193,41 @@ height: 600px;
   color: var(--main-brown-background);
   margin-top: 10px;
   font-size: 30px;;
+}
+.pent{
+  position: absolute;
+  top: 330%;
+  display: flex;
+}
+.pent-content{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  width: 500px;
+}
+.pent-content p, h1, h3, btn{
+ margin-left: 100px;
+ width: 350px;
+
+}
+.pent-image img{
+  width: 800px;
+}
+.pent-content h1{
+  color: var(--main-brown-background);
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+.pent-content p{
+  font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 130%;
+}
+.pent-content h3{
+  color: var(--main-brown-background);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
 }
