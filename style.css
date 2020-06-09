@@ -231,3 +231,9 @@ line-height: 130%;
   margin-bottom: 10px;
   font-size: 30px;
 }
+.luxe{
+  position: absolute;
+  top: 450%;
+  display: flex;
+  justify-content: center;
+}
