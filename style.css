@@ -251,7 +251,7 @@ btn {
 
 .superior-content {
   position: relative;
-  left: 200px;
+  left: 100px;
   top: 100px;
   width: 600px;
   box-shadow: var(--box-shadow);
@@ -276,4 +276,12 @@ btn {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 30px;
+}
+.superior-image{
+  margin-right: 100px;
+}
+.superior-image img{
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
 }
