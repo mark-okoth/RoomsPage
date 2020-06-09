@@ -176,6 +176,7 @@ height: 600px;
  display: flex;
  justify-content: center;
  flex-direction: column;
+ box-shadow: var(--box-shadow);
 }
 .grand-suite-content p{
   margin-left: 100px;
