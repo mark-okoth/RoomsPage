@@ -246,7 +246,7 @@ btn {
 .superior-container {
   display: flex;
   flex-direction: row;
-  margin: 100px;
+  left: 10%;
 }
 
 .superior-content {
@@ -277,11 +277,12 @@ btn {
   margin-bottom: 10px;
   font-size: 30px;
 }
-.superior-image{
+.superior-image img {
   margin-right: 100px;
-}
-.superior-image img{
- background-size: cover;
- background-position: center;
- background-repeat: no-repeat;
+  width: 700px;
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  right: 10%;
 }
