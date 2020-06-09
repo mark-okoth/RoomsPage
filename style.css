@@ -154,3 +154,40 @@ button{
  outline: none;
  margin-top: 10px;
 }
+
+.grand-suite-container{
+  margin:0 50px ;
+  display: flex;
+  flex-direction: row;
+}
+
+.grand-suite-img{
+width: 900px;
+height: 600px;
+}
+
+.grand-suite-content{
+  background-color: #ffff;
+ position: absolute;
+ width: 585px;
+ height: 431px;
+ top: 235%;
+ left: 50%;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+}
+.grand-suite-content p{
+  margin-left: 100px;
+  color: #333333;
+}
+.grand-suite-content h1{
+  font-size: 48px;
+  color: #333333;
+  font-weight: normal;
+}
+.grand-suite-content h3{
+  color: var(--main-brown-background);
+  margin-top: 10px;
+  font-size: 30px;;
+}
