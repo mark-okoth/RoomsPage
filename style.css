@@ -102,3 +102,52 @@ margin-left: 20px;
     width: 458px;
     height: 147px;
 }
+.minimalist-container{
+  display: flex;
+  flex-direction: row;
+}
+.minimalist-content{
+  width: 710px;
+  height: 750px;
+  background: #BDBDBD;
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  flex-direction: column;
+}
+
+.minimalist-image img{
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  left: 40%;
+  top: 110%;
+}
+.minimalist-content p, h1, h3, button{
+  margin-left: 100px;
+  width: 300px;
+}
+.minimalist-content h1{
+  margin-top: 200px;
+}
+
+.minimalist-content p{
+  color: #333333;
+}
+
+.minimalist-content h1{
+ color: var(--main-brown-background);
+ font-size: 70px;
+}
+.minimalist-content h3{
+  color: var(--main-brown-background);
+  font-size: 30px;
+ }
+button{
+ width: 135px;
+ height: 41px;
+ color: var(--text-white-color);
+ background: var(--main-brown-background);
+ outline: none;
+ margin-top: 10px;
+}
