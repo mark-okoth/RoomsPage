@@ -117,11 +117,14 @@ margin-left: 20px;
 }
 
 .minimalist-image img{
-  width: 800px;
+  width: 750px;
   height: 500px;
   position: absolute;
   left: 40%;
   top: 110%;
+}
+.minimalist-image{
+  margin-right: 100px;
 }
 .minimalist-content p, h1, h3, button{
   margin-left: 100px;
