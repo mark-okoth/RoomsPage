@@ -631,5 +631,7 @@ btn {
 /* end of single executive suite */
 
 @media(max-width:500px){
-
+nav ul{
+    display: none;
+}
 }
